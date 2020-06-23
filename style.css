@@ -1,0 +1,56 @@
+
+header {
+  color: black;
+  text-align: center;
+  animation: title 8s infinite;
+  border-radius: 10px;
+}
+@keyframes title {
+  0% {
+    color: black;
+  }
+  25% {
+    color: hsl(6, 82%, 22%);
+  }
+  50% {
+    color: teal;
+  }
+  75% {
+    color: hsl(6, 82%, 22%);
+  }
+  100% {
+    color: black;
+  }
+}
+
+div#img-div {
+  max-width: 300px;
+  margin: auto;  
+}
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  border-radius: 50%;
+  border: 4px solid pink;
+}
+p {
+  text-align: justify;
+  color:#333333;
+  font-size:1.3rem;
+  padding-top:1.5rem;
+}
+footer{
+  min-height:150px;
+  background-color: #06011E;
+  padding:20px 10px;
+  margin:auto;
+}
+
+.name{
+  color:#900C3F;
+  text-align:justify;
+}
+
+
+
