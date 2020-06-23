@@ -1,3 +1,3 @@
 # Tribute to Ada Lovelace
-## - Frist Computer Programmer
+## - First Computer Programmer
 #### - page created by: theTradeCoder (Mamun Abdullah)
